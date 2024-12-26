@@ -1,0 +1,9 @@
+This is a simple text file for GitHub.
+
+Hello, welcome to my GitHub repository. This file is for testing or storing simple notes.
+
+Feel free to edit, update, or use this file as you wish. There are no strict rules for its content.
+
+Thank you!
+
+
